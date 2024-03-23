@@ -121,6 +121,7 @@ celerybeat.pid
 
 # Environments
 .env
+form_qr_code.png
 .venv
 env/
 venv/
